@@ -1,6 +1,6 @@
 # First download dependencies before using npm start.
 
-### `npm install'
+### `npm install`
 
 
 # Getting Started with Create React App
